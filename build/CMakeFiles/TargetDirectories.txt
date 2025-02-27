@@ -1,0 +1,3 @@
+/Users/burcakaydin/Desktop/sfml_project/build/CMakeFiles/game.dir
+/Users/burcakaydin/Desktop/sfml_project/build/CMakeFiles/edit_cache.dir
+/Users/burcakaydin/Desktop/sfml_project/build/CMakeFiles/rebuild_cache.dir
