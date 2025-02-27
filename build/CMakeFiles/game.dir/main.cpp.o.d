@@ -1,5 +1,5 @@
 CMakeFiles/game.dir/main.cpp.o: \
-  /Users/burcakaydin/Desktop/sfml_project/main.cpp \
+  /Users/burcakaydin/Desktop/comp4300/main.cpp \
   /opt/homebrew/opt/sfml@2/include/SFML/Graphics.hpp \
   /opt/homebrew/opt/sfml@2/include/SFML/Window.hpp \
   /opt/homebrew/opt/sfml@2/include/SFML/System.hpp \
